@@ -8,12 +8,10 @@
 
 You can create new tasks, delete it, show all, find by status and change if completed.
 
+### [Try it the demo](https://todoapi-git-hroddev-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/swagger-ui.html#/)
 ![](./src/main/resources/static/img/capture-1.png)
-### [Try the todo api deploy](https://todoapi-git-hroddev-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/swagger-ui.html#/)
 
-## Installation
-
-Download and try:
+## Download
 
 Use yor favorite IDE, mine is [Intellij IDEA](https://www.jetbrains.com/idea/download/)
 
