@@ -8,7 +8,7 @@
 You can create new tasks, delete it, show all, find by status and change if completed.
 
 ![](./src/main/resources/static/img/capture-1.png)
-### [Try todo api](https://todoapi-git-hroddev-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/swagger-ui.html#/)
+### [Try the todo api deploy](https://todoapi-git-hroddev-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/swagger-ui.html#/)
 
 ## Installation
 
