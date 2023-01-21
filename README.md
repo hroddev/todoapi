@@ -7,13 +7,16 @@
 
 You can create new tasks, delete it, show all, find by status and change if completed.
 
-![](header.png)
+![](./src/main/resources/static/img/capture-1.png)
+### [Try todo api](https://todoapi-git-hroddev-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/swagger-ui.html#/)
 
 ## Installation
 
 Download and try:
 
-Use yor favorite IDE, mine is [Intellij IDEA](https://www.jetbrains.com/idea/download/).
+Use yor favorite IDE, mine is [Intellij IDEA](https://www.jetbrains.com/idea/download/)
+
+
 ```sh
 git clone https://github.com/hroddev/todoapi.git
 ```

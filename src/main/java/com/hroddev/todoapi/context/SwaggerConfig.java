@@ -31,7 +31,7 @@ public class SwaggerConfig {
                 "Keep your pending notes",
                 "v1",
                 "Terms of service",
-                new Contact("Hector Rodriguez", "www.hrod.dev", "hector@hrod.dev"),
+                new Contact("Hector Rodriguez", "https://hrod.dev", "hector@hrod.dev"),
                 "License of API", "API license URL", Collections.emptyList());
     }
 }
