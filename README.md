@@ -3,6 +3,7 @@
 
 [![Java Version][java-image]][java-url]
 [![Spring version][spring-image]][spring-url]
+[![Deploy][sandbox-image]][sandbox-url]
 
 
 You can create new tasks, delete it, show all, find by status and change if completed.
@@ -46,3 +47,5 @@ Describe how to install all development dependencies and how to run an automated
 [java-url]: https://openjdk.org/projects/jdk/17/
 [spring-image]: https://img.shields.io/badge/Spring-version%202.54-brightgreen
 [spring-url]: https://spring.io/
+[sandbox-image]: https://img.shields.io/badge/RedHat%20OpenShift-Sandbox-red
+[sandbox-url]: https://developers.redhat.com/developer-sandbox
